@@ -1,11 +1,11 @@
-# Integração Gabriel
+# prova de recuperação Gabriel
 ​
 ## Iniciar a simulação:
-Primeiro, é necessário ativar o ambiente virtual do python. Nesse caso, é só executar o seguinte comando no terminal dentro da raiz do projeto:
+Primeiro, é necessário ativar o ambiente virtual do python. é só executar o seguinte comando no terminal dentro da raiz do projeto:
 ​
 pascoli>Scripts\activate
 ​
-Depois, abrimos o servidor local em flask:
+após isso, abrimos o servidor local em flask:
 ​
 pascoli>python app.py
 ​
